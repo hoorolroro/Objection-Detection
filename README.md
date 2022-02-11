@@ -23,4 +23,4 @@
 
 ● 총 4개의 결과가 나옴 RPN의 Classification & Localization과 최종 끝 부분의 Classification &  Localization이 나온다.
 <img src="https://user-images.githubusercontent.com/98728682/153544846-fe9ca3dc-54cf-4186-8931-4872c5635804.png" width="480" height="320">  
-]
+[Shaoqing Ren et al., 2016]
