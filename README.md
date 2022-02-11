@@ -26,6 +26,8 @@
 
 ## 프로그램 시현
 ● Balloon data set과 미리 500 epoch까지 학습시킨 Faster R-CNN 모델을 사용한다.  
+
 ● 아래에는 Test Balloon data와 결과값을 보여주고 있는 사진이다.  
+
 <img src="https://user-images.githubusercontent.com/98728682/153546310-6d701e67-c25f-407e-9547-5c01d3e02877.png" width="280" height="150"><img src="https://user-images.githubusercontent.com/98728682/153546345-e210a11f-2206-4da3-a9d9-afa882b55b8e.png" width="280" height="150">  
 <img src="https://user-images.githubusercontent.com/98728682/153546365-147b8ab4-1977-4007-8efb-0815819223ee.png" width="280" height="150"><img src="https://user-images.githubusercontent.com/98728682/153546389-b07f91b1-74a5-43d0-8707-2cf75c780ee7.png" width="280" height="150">
