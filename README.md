@@ -1,6 +1,8 @@
 # Objection-Detection  
 ● 객체 인식이란?  
+
 ● 영상에서 찾고자 목적하는 물체의 위치를 찾아내고 분류하는 과정을 말한다.  
+
 ●  얼굴 인식, 스마트 팩토리, 구조물 관리 등 다양한 분야에서 응용되고 있다.
 
 <img src="https://user-images.githubusercontent.com/98728682/153541046-76ce92af-64ae-40da-b49f-b80de477a92c.jpg" width="480" height="230">
@@ -25,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/98728682/153544846-fe9ca3dc-54cf-4186-8931-4872c5635804.png" width="480" height="350">  
 
 ## 프로그램 시현
-● Balloon data set과 미리 500 epoch까지 학습시킨 Faster R-CNN 모델을 사용한다.  
+● Balloon data set과 미리 500 epoch까지 학습시킨 Faster R-CNN 모델을 사용하여 시행을 진행한다.  
 
 ● 아래에는 Test Balloon data와 결과값을 보여주고 있는 사진이다.  
 
