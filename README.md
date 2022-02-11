@@ -24,3 +24,6 @@
 ● 총 4개의 결과가 나옴 RPN의 Classification & Localization과 최종 끝 부분의 Classification &  Localization이 나온다. [Shaoqing Ren et al., 2016]
 <img src="https://user-images.githubusercontent.com/98728682/153544846-fe9ca3dc-54cf-4186-8931-4872c5635804.png" width="480" height="350">  
 
+## 프로그램 시현
+● Balloon data set과 미리 500 epoch까지 학습시킨 Faster R-CNN 모델을 사용한다.
+● 
