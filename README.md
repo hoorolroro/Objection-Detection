@@ -22,4 +22,4 @@
 ● RPN의 결과로 원래 이미지 위에 어디쯤에 객체가 있을지에 대한 정보가 나오므로 이것을 이용해 ROI(Region of Interest) Pooling을 진행함.  
 
 ● 총 4개의 결과가 나옴 RPN의 Classification & Localization과 최종 끝 부분의 Classification &  Localization이 나온다.
-<img src="https://user-images.githubusercontent.com/98728682/153544846-fe9ca3dc-54cf-4186-8931-4872c5635804.png" width="480" height="230">
+<img src="https://user-images.githubusercontent.com/98728682/153544846-fe9ca3dc-54cf-4186-8931-4872c5635804.png" width="480" height="280">
