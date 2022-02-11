@@ -16,5 +16,9 @@
 
 ## Faster R-CNN
 ● 전체 이미지를 CNN에 통과시켜 feature map을 생성한다.  
+
 ● RPN(Region Proposal Network)을 이용해서 객체가 있을법한 영역 800개를 찾아낸다.  
-● RPN의 결과로 원래 이미지 위에 어디쯤에 객체가 있을지에 대한 정보가 나오므로 이것을 이용해 ROI(Region of Interest) Pooling을 진행함.
+
+● RPN의 결과로 원래 이미지 위에 어디쯤에 객체가 있을지에 대한 정보가 나오므로 이것을 이용해 ROI(Region of Interest) Pooling을 진행함.  
+
+
