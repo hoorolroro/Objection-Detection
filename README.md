@@ -13,3 +13,8 @@
 
 ● Two Stage는 객체의 위치를 먼저 찾고 이후에 찾은 객체가 무엇인지 찾아내는 구조이다. 대표적인 모델로 Faster R-CNN이 있다.  
 ● 느리지만 정확도가 좋다.
+
+## Faster R-CNN
+● 전체 이미지를 CNN에 통과시켜 feature map을 생성한다.  
+● RPN(Region Proposal Network)을 이용해서 객체가 있을법한 영역 800개를 찾아낸다.  
+● RPN의 결과로 원래 이미지 위에 어디쯤에 객체가 있을지에 대한 정보가 나오므로 이것을 이용해 ROI(Region of Interest) Pooling을 진행함.
